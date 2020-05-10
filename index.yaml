@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  secret-inject:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-05-10T03:52:48.425652239Z"
+    description: A Helm chart for installing AWS Secret Controller webhook
+    digest: 27d8824b1967d3af0519da56344be8d572278c0ff7a0f9eeef4472e213539f4c
+    name: secret-inject
+    urls:
+    - https://amit0701.github.io/secret-inject/secret-inject-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-10T03:52:48.422358611Z"
